@@ -1,6 +1,7 @@
 {
-   "title": "title",
-   "author_name": "Floppy Knights",
+   "author_name": "Epic Games",
    "url": "https://store.epicgames.com/en-US/p/floppy-knights-6a735a/",
-   "provider_name": "Epic Games",
+   "title": "Floppy Knights Title",
+   "provider_name": "Floppy Knights Provider",
+   "provider_url": "https://store.epicgames.com/en-US/p/floppy-knights-6a735a/"
 }
